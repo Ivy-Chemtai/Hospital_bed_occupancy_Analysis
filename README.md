@@ -41,6 +41,7 @@ The calculation divides the average monthly patient footfall (beds occupied) by 
 df.head()
 Displays the first five rows of the DataFrame to verify that the new column bed_occupancy_rate(%) has been created successfully.
 <Figure size 1000x600 with 1 Axes><img width="998" height="590" alt="image" src="https://github.com/user-attachments/assets/82dc3b27-a236-41cf-8209-8fe2208e7ff7" />
+    
 ## Insight
 
 The chart shows significant variation in bed occupancy rates among maternity facilities in Pune. Late Matoshri Ramabai Ambedkar Maternity Home recorded the highest occupancy rate (around 1500%), indicating extreme overutilization relative to its available bed capacity. In contrast, facilities such as Dr. Dalvi, PMC Joint Project and Late Draupadabai Murlidhar Khedekar Maternity Home display much lower occupancy levels, suggesting possible underutilization or resource availability.
